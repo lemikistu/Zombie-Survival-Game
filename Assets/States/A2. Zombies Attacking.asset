@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
+  m_Name: A2. Zombies Attacking
+  m_EditorClassIdentifier: 
+  storyText: "Now zombies noticed you, they are slowly approaching to you.they are
+    knocking the door.You quickly run from upstairs to down floor and found few useful
+    tools like gasoline and fire and gun \r\n\r\n\r\n1) Get the guns and ammo and
+    wait for door to open\r\n\r\n2)Put gas just behind the door and wait for zombies
+    to brake in"
+  nextStates:
+  - {fileID: 11400000, guid: 2ca9e504dccce06419cf56942dd540bb, type: 2}
+  - {fileID: 11400000, guid: 76764e4adf89ef74a8c75f6046a54bfa, type: 2}

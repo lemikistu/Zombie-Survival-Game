@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
+  m_Name: Tools
+  m_EditorClassIdentifier: 
+  storyText: "Now you got these tools you are prepared.You see tower in 100 meters
+    away.You got bandage,and foods so you are okay.\r\n\r\n1) Go to top of the tower
+    and re check signal\r\n\r\n2)Continue going in direction you think signal is coming
+    from"
+  nextStates:
+  - {fileID: 11400000, guid: e93af626049c2c5428e343462a144ab8, type: 2}
+  - {fileID: 11400000, guid: 8958b2fd7351f4149a3bd7b703e51774, type: 2}

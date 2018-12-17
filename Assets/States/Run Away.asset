@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
+  m_Name: Run Away
+  m_EditorClassIdentifier: 
+  storyText: You managed to run away!
+  nextStates:
+  - {fileID: 11400000, guid: 3f590f0a410b415469ff466ba057b241, type: 2}

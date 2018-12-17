@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to my Zombie Game!
+
+
+
+    In this game you choose your own adventure.At each stage you will be asked to
+    enter key on keyboard like 1 or 2 as input which will shape the story.
+
+
+    At any time push "q" to quit.'
+  nextStates:
+  - {fileID: 11400000, guid: 5a5a92dac8f0d5742928369f0dde4cf2, type: 2}

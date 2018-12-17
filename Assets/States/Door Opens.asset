@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
+  m_Name: Door Opens
+  m_EditorClassIdentifier: 
+  storyText: "Door opens all the zombies flooding in! You try to get them much as
+    you can but more is coming every time you get one zombie down\r\n\r\n1) Keep getting
+    them down maybe you can get all\r\n\r\n2) Look for opportunity to run away"
+  nextStates:
+  - {fileID: 11400000, guid: 851f674fb436906429bb29c2d2ef28a6, type: 2}
+  - {fileID: 11400000, guid: 0a4817dedbc3f9a43ba4fa03c7144f9d, type: 2}
