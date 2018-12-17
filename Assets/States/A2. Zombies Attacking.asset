@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: A2. Zombies Attacking
   m_EditorClassIdentifier: 
-  storyText: "Now zombies noticed you, they are slowly approaching to you.they are
+  storyText: "Now zombies noticed you! they are slowly approaching to you.they are
     knocking the door.You quickly run from upstairs to down floor and found few useful
     tools like gasoline and fire and gun \r\n\r\n\r\n1) Get the guns and ammo and
     wait for door to open\r\n\r\n2)Put gas just behind the door and wait for zombies
