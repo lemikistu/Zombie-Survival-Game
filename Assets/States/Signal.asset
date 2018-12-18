@@ -11,8 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Signal
   m_EditorClassIdentifier: 
-  storyText: "You are in nest for few days and you have no food left...\r\n\r\n\r\n\r\n1)Keep
-    trying for signals\r\n\r\n2)Go out"
+  storyText: 'You are in the nest for a few days, and you have no food left...
+
+
+
+    1) Keep trying for signal
+
+
+    2) Go out'
   nextStates:
   - {fileID: 11400000, guid: 1f08cb3ffaa14a641a7016a83ba4bfcb, type: 2}
   - {fileID: 11400000, guid: b173bba49610d3c42bb155562605cc8c, type: 2}

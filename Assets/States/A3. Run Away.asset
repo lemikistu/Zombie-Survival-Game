@@ -11,9 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: A3. Run Away
   m_EditorClassIdentifier: 
-  storyText: "Now zombies attention is somewhere else you managed to run away from
-    the backdoor...You found that there is a car with no keys.\r\n\r\n1) Try to get
-    car working\r\n\r\n2)Run on open field much as you can until you are tired"
+  storyText: 'Now, zombies, attention is somewhere else you managed to run away from
+    the back door...You found that there is a car with no keys.
+
+
+    1) Try to get the car working
+
+
+    2) Run on the open field much as you can until you are tired'
   nextStates:
   - {fileID: 11400000, guid: aea428181f22eb2418483badd3df5220, type: 2}
   - {fileID: 11400000, guid: 8958b2fd7351f4149a3bd7b703e51774, type: 2}

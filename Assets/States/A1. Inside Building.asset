@@ -11,17 +11,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: A1. Inside Building
   m_EditorClassIdentifier: 
-  storyText: "You are in the middle of huge zombie attack that just sieged your city.You
-    are the only survivied person far as you can see.However you have access to radio
-    and can hear that there is a signals coming from other city just 5 KM away.In
-    these signals you can hear that there is other sutvivers just like you and they
-    boradcat messages for other survivers.You have to break the invasion and safely
-    reach to other humans.Meanwhile you are trapped in your building without any light
-    and you only have limited supply of food.You have to act quick.You are just looking
-    outside of window and you can see few zombies patroling.You have to create strategy.\r\n\r\nWhat
-    you gone do?\r\n\r\n1)Throw few objects you gathered to the zombies from the window.\r\n\r\n2)Throw
-    few object you gathered far away to take their attention away so you can escape
-    from the front door.\r\n"
+  storyText: 'You are in the middle of a huge zombie attack that just sieged your
+    city. You are the only surviving person as far as you can see. However, you have
+    access to the radio and can hear that there is a signal coming from another city
+    just 5 KM away. In these signals, you can understand that there are other survivors
+    just like you and they broadcast messages for other survivors.You have to break
+    the invasion and safely reach to other humans.
+
+    Meanwhile you are trapped in your building without any light, and you only have
+    a limited supply of food. You have to act quick. You are just looking outside
+    the window, and you can see a few zombies patrolling.You have to create a strategy.
+
+
+    What will you do?
+
+
+    1) Throw a few objects you gathered to the zombies from the window.
+
+
+    2) Throw few objects you gathered far away to take their attention away so you
+    can escape from the front door.'
   nextStates:
   - {fileID: 11400000, guid: 39e1ba053da7bd64b9f75e97e3aa2f4f, type: 2}
   - {fileID: 11400000, guid: 3f590f0a410b415469ff466ba057b241, type: 2}

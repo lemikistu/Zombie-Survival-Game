@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Tower
   m_EditorClassIdentifier: 
-  storyText: "You took 1.5 hours to climb to tower and there is no zombies around.You
-    tried radio signal again but there is nothing.\r\n\r\n1)Wait until morning because
-    zombies might go away\r\n\r\n2)Get down from the tower and go to direction you
-    think is right.\r\n\r\n"
+  storyText: "It took you 1.5 hours to climb to the tower, and there are no zombies
+    around. You tried radio signal again, but there is nothing.\n\n1) Wait until morning
+    because zombies might go away\n\n2) Get down from the tower and go to the direction
+    you think is right\n\r\n"
   nextStates:
   - {fileID: 11400000, guid: a8eb9e30ee0e1634b897a5200dce6dc0, type: 2}
   - {fileID: 11400000, guid: 8958b2fd7351f4149a3bd7b703e51774, type: 2}

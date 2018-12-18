@@ -11,9 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Car
   m_EditorClassIdentifier: 
-  storyText: "You did tried very hard to get car working but you didn't/However you
-    found bandage few foods and money in the car\r\n\r\n1) Take them\r\n\r\n2)Leave
-    them there\n"
+  storyText: 'You did try very hard to get the car working, but you coudn''t. However,
+    you found a bandage, few foods and money in the car.
+
+
+    1) Take them
+
+
+    2) Leave them there'
   nextStates:
   - {fileID: 11400000, guid: 7e25c78dfcbfd2a46b51bca19d4d9631, type: 2}
   - {fileID: 11400000, guid: aa970f3543e1ff6418b3f611824785ba, type: 2}

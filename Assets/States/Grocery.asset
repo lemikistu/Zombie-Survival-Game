@@ -11,8 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Grocery
   m_EditorClassIdentifier: 
-  storyText: "You are very hungry you seen grocy store you loved!\r\n\r\n\r\n\r\n1)Go
-    and grab some food\r\n\r\n2)Keep moving"
+  storyText: 'You are very hungry you saw grocery store you loved!
+
+
+
+    1)Go and grab some food
+
+
+    2)Keep moving'
   nextStates:
   - {fileID: 11400000, guid: 6f474b5b018e6a64ebde8c1c595d4857, type: 2}
   - {fileID: 11400000, guid: 379c781e7d08aa842b8e69c3d9db395a, type: 2}

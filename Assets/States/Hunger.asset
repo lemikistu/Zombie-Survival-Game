@@ -11,8 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Hunger
   m_EditorClassIdentifier: 
-  storyText: "You have to make important decision!\n\r\n\r\n\r\n1)Keep walking during
-    the day\r\n\r\n2)Keep waiting for signal until you run out of the food"
+  storyText: 'You have to make an important decision!
+
+
+
+    1) Keep walking during the day
+
+
+    2) Keep waiting for a signal until you run out of the food'
   nextStates:
   - {fileID: 11400000, guid: 8934feb75ab904c48985f653fac64e43, type: 2}
   - {fileID: 11400000, guid: cc93922665b2d664582008cfd4567a32, type: 2}

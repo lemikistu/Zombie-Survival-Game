@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: No Food
   m_EditorClassIdentifier: 
-  storyText: No Food No Energy you feel exausted... Game Over!
+  storyText: No Food No Energy you feel exhausted... Game Over!
   nextStates:
   - {fileID: 11400000, guid: 761f6223e82a3ad4dbbd16e0f446d022, type: 2}

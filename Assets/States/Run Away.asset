@@ -11,6 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Run Away
   m_EditorClassIdentifier: 
-  storyText: You managed to run away!
+  storyText: 'You managed to run away!
+
+
+
+    Continue...'
   nextStates:
   - {fileID: 11400000, guid: 3f590f0a410b415469ff466ba057b241, type: 2}

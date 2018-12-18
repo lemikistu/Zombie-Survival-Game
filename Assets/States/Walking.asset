@@ -11,7 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Walking
   m_EditorClassIdentifier: 
-  storyText: "You walked 10km and feel exausted.You found the nest and checked the
-    signal and you contacted the other city fine.Now you gone sleep\r\n\r\n\r\n\r\nContinue\r\n\r\n"
+  storyText: 'You walked 10km and feel exhausted.You found the nest and checked the
+    signal, and you contacted the other city. Now you are going to sleep.
+
+
+
+
+    Continue...'
   nextStates:
   - {fileID: 11400000, guid: 6d52891ab82569e42a57b9d0319f6bbc, type: 2}

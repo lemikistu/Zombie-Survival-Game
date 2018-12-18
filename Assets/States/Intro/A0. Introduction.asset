@@ -11,14 +11,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: A0. Introduction
   m_EditorClassIdentifier: 
-  storyText: 'Welcome to my Zombie Game!
+  storyText: 'Welcome to Zombie Survival Game!
 
 
 
-    In this game you choose your own adventure.At each stage you will be asked to
-    enter key on keyboard like 1 or 2 as input which will shape the story.
+    In this game, you choose your adventure. At each stage, you will be asked to choose
+    one of the two options.This decisions you make will shape the story. For choosing
+    the first option you need to press "1" on your keyboard. For choosing the second
+    option you need to press "2".Once the game is over, you can press "1" to start
+    again from here.
 
 
-    At any time push "q" to quit.'
+
+'
   nextStates:
   - {fileID: 11400000, guid: 5a5a92dac8f0d5742928369f0dde4cf2, type: 2}

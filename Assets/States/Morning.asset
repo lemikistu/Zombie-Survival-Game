@@ -11,10 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Morning
   m_EditorClassIdentifier: 
-  storyText: "It is morning now and you are energized.You didnt felt hunger last night
-    because of stress but now you fell very hungry you just ate one meal you found.\r\n\r\n\r\n\r\n1)Keep
-    walking during the day\r\n\r\n2)Keep waiting for signal until you run out of the
-    food"
+  storyText: 'It is morning now, and you are energised.You didn''t felt hunger last
+    night because of stress, but now you feel very hungry and you just ate one meal
+    you found.
+
+
+
+    1)Keep walking during the day
+
+
+    2)Keep waiting for a signal until you run out of the food'
   nextStates:
   - {fileID: 11400000, guid: b173bba49610d3c42bb155562605cc8c, type: 2}
   - {fileID: 11400000, guid: 9daf8ac147d6f3048adf6f49f07d2af4, type: 2}

@@ -11,10 +11,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Direction
   m_EditorClassIdentifier: 
-  storyText: "Now you are running in open field and looking if there is zombies around.You
-    see few around but go around them so they don't notice you\r\n\r\n1)Try to get
-    into building near you to spend the night\r\n\r\n2)Keep walking until you are
-    tired\n"
+  storyText: 'Now you are running in open field and looking if there are zombies around.
+    You see few zombies around, but you went around them, so they didn''t notice you.
+
+
+    1) Try to get into a building near you to spend the night
+
+
+    2) Keep walking until you are tired
+
+'
   nextStates:
   - {fileID: 11400000, guid: e2d87a240085b5f4a965f763db8d26c3, type: 2}
   - {fileID: 11400000, guid: f05a2756834cbaa41bcc600c786f31fc, type: 2}

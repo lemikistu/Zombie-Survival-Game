@@ -11,7 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2140134bf850df479bfc05987d63941, type: 3}
   m_Name: Game Won
   m_EditorClassIdentifier: 
-  storyText: You managed to go few more km and seen a fire near night.You go around
-    it and found the survivers.You survived and now safe!Game over!
+  storyText: You managed to go a few more km and seen a fire near night time. You
+    go around it and found the survivors.You survived, and now you are safe! You won
+    the game!
   nextStates:
   - {fileID: 11400000, guid: 761f6223e82a3ad4dbbd16e0f446d022, type: 2}
