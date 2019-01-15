@@ -73,3 +73,7 @@ See also the list of [contributors](https://github.com/lemikistu/Zombie-Survival
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Notes
+
+* Once game project is loaded go to Scenes folder and select the scene to be able to see the actual game.
+* All the scriptible objects except the first one is under the States folder.
