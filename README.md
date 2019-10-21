@@ -1,6 +1,6 @@
 # Zombie Survival Game
 
-Text Based Zombie Survival Game made with Unity
+Text Based Zombie Survival Game made with Unity [![Codacy Badge](https://api.codacy.com/project/badge/Grade/72b057fbf0ed413eab258b23a22d1d72)](https://www.codacy.com/manual/orhanarifoglu/Zombie-Survival-Game?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=orhanarifoglu/Zombie-Survival-Game&amp;utm_campaign=Badge_Grade)
 
 
 ## Getting Started
