@@ -2,6 +2,7 @@
 
 Text Based Zombie Survival Game made with Unity [![Codacy Badge](https://api.codacy.com/project/badge/Grade/72b057fbf0ed413eab258b23a22d1d72)](https://www.codacy.com/manual/orhanarifoglu/Zombie-Survival-Game?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=orhanarifoglu/Zombie-Survival-Game&amp;utm_campaign=Badge_Grade) [![CodeFactor](https://www.codefactor.io/repository/github/orhanarifoglu/zombie-survival-game/badge)](https://www.codefactor.io/repository/github/orhanarifoglu/zombie-survival-game)
 
+To Play: https://orhana.itch.io/zombie-escape
 
 ## Getting Started
 
